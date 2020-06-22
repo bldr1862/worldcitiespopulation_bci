@@ -1,6 +1,6 @@
 ### Nombres en común entre USA y UK
 
-Para ejecutar la aplicación web con los resultados se deben seguir los siguientes pasos:
+Para ejecutar la aplicación web con los resultados, debes clonar el repositorio y una vez dentro se deben seguir los siguientes pasos:
 
 #### Para Windows
 
