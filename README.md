@@ -1,5 +1,15 @@
-### Origen de ciudades
+### Nombres en común entre USA y UK
 
-En el notebook está el procesamiento
+Para ejecutar la aplicación web con los resultados se deben seguir los siguientes pasos:
 
-En dashboard está la inspección de datos
+#### Para Windows
+
+```
+python -m venv virtual_env
+virtual_env/Scripts/activate
+cd virtual_env/Scripts/
+activate
+cd ../../
+pip install -r requirements.txt
+streamlit run dashboard.py
+```
