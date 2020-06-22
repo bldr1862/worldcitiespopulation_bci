@@ -10,6 +10,7 @@ def load_csv(path, sep=";"):
 
 st.markdown("# La costa este de USA tiene más nombres de ciudades de UK que la costa oeste?")
 st.markdown("## Desafío analítico Data & Analytics")
+st.markdown("## Bastian Díaz Renjifo")
 
 st.markdown("### Análisis Exploratorio")
 st.markdown("""
@@ -143,4 +144,18 @@ st.markdown(f"""
             Asumiendo que estados unidos se puede dividir a verticalmente por la latitud: 34.4052687 (según google maps), 
             se puede establecer que la costa este de USA tiene **{cuo}** veces más nombres en común con UK que la costa oeste.
             Por lo tanto, **la hipótesis presentada en este desafío es cierta**.
+            """)
+
+st.markdown("### Mejoras")
+st.markdown("""
+            Este análisis se puede seguir profundizando, por ejemplo al tomar solo las regiones que tengan cosa es decir:
+            California, Oregon, Washington vs Florida, Virginia, etc. Otra arista que se puede atacar, es construir una tasa de 
+            nombres comunes por m2, y se puede crear un heatmap con las regiones que tienen más nombres en común. Estas ideas, pueden
+            dar una visión más detallada de este escenario, sin embargo, no van a cambiar la conclusión anterior.
+            """)
+
+st.markdown("### Desafíos")
+st.markdown("""
+            Una de las principales dificultades, ha sido y cómo ocurre en general con los trabajos de análisis, en presentar un trabajo
+            de naturaleza iterativa en un flujo lógico continuo que logre mostrar las causas e insights que se extraen de la información.
             """)
