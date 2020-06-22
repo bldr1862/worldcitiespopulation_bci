@@ -1,3 +1,5 @@
 ### Origen de ciudades
 
-Resultados en el notebook
+En el notebook está el procesamiento
+
+En dashboard está la inspección de datos

@@ -1,2 +1,4 @@
 .ipynb_checkpoints/*
 *.pdf
+virtual_env/*
+__pycache__/*
