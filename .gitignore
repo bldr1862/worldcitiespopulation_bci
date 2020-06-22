@@ -2,3 +2,4 @@
 *.pdf
 virtual_env/*
 __pycache__/*
+resultados.pdf
